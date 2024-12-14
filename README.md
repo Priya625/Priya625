@@ -9,9 +9,8 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500" alt="girl coding GIF" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" alt="girl coding GIF" />
 </p>
-
 
 ---
 
