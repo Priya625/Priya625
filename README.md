@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priya K V</h1>
-<h3 align="center">Aspiring Data Analyst | Ex Java Full-Stack Developer</h3>
+<h3 align="center">Aspiring Data Analyst | Ex Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priya625&label=Profile%20views&color=0e75b6&style=flat" alt="priya625" />
