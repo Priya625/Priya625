@@ -8,8 +8,9 @@
 
 ---
 <p align="center">
-  <img src="https://lottie.host/6b8f9c5c-0155-408e-b42d-3cdd2dcb6465/aL1AbUsrhI.json" width="500" alt="Professional woman working at laptop animation" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Professional woman at laptop" />
 </p>
+
 
 
 ---
