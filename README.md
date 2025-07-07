@@ -8,8 +8,9 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Professional woman at laptop" />
+  <img src="https://i.pinimg.com/originals/68/6b/07/686b07e7a8a09447677e69f67ec8e784.jpg" width="450" alt="Illustration of a woman working on a laptop" />
 </p>
+
 
 
 
@@ -40,7 +41,7 @@ I'm focused on roles in:
 
 ## 📅 Current Projects
 
-- **ShopNest Sales & Delivery** (Power BI + PostgreSQL)
+- **ShopNest Sales & Delivery (Power BI + Excel)**
 - **YouTube Revenue Insights**
 - **Telecom Customer Churn with Python**
 - **HR Analytics Dashboard (SQL + Power BI)**
