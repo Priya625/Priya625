@@ -9,9 +9,8 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" alt="girl coding GIF" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" alt="Professional woman working with laptop" />
 </p>
-
 ---
 
 ## 💡 About Me
@@ -39,10 +38,10 @@ I'm focused on roles in:
 
 ## 📅 Current Projects
 
-- **HR Diversity Dashboard** (Power BI + PostgreSQL)
-- **Sales Forecasting using Python**
-- **Customer Churn Prediction with ML & SQL**
-- **Pizza Sales Dashboard (SQL + Power BI)**
+- **ShopNest Sales & Delivery** (Power BI + PostgreSQL)
+- **YouTube Revenue Insights**
+- **Telecom Customer Churn with Python**
+- **HR Analytics Dashboard (SQL + Power BI)**
 
 Explore them here: [My Projects →](https://github.com/priya625?tab=repositories)
 
