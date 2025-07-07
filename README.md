@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priya K V</h1>
-<h3 align="center">Aspiring Data Analyst | Ex Software Developer</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priya625&label=Profile%20views&color=0e75b6&style=flat" alt="priya625" />
@@ -14,85 +14,59 @@
 
 ---
 
-## 🛠️ About Me
+## 💡 About Me
 
-Hi! I’m Priya, a former Java full-stack developer with **2.3 years of experience** in software development. After gaining hands-on experience building scalable, data-driven applications, I discovered my true passion lies in **analyzing data, uncovering insights, and solving real-world problems with analytics**.
+Hi! I’m Priya, a Data Analyst passionate about transforming data into strategic insights that fuel smart decisions. With over 2.3 years of experience, I specialize in building interactive dashboards, optimizing data pipelines, and telling compelling data stories.
 
-Currently, I’m on a journey of **upskilling in Data Analytics**—learning how to turn raw data into powerful business insights using tools like Python, SQL, Power BI, and Excel.
-
-- 🎯 Actively upskilling in **Python, Power BI, SQL, and Data Visualization**
-- 🧠 Exploring real-world datasets to build **portfolio projects**
-- 📂 GitHub: [github.com/priya625](https://github.com/priya625)
-- 📫 Reach me: **priyakv2020@gmail.com**
-- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1E16XwwGZRy6YzUWO9NSwGVBrB0nU0UJa/view?usp=sharing)
+- 🎯 Strong command over **SQL, Python, Power BI, Excel**
+- 🤖 Turning raw data into actionable insights with smart visualizations
+- 📊 Currently building real-world dashboards for HR, Sales, and Customer Analytics
+- 🔍 Always curious about patterns, behaviors, and trends hidden in data
 
 ---
 
-## 🔄 Career Shift to Data Analytics
+## 🚀 Career Focus
 
-After working in software development, I realized my interest in understanding *why things happen* through data—not just building systems, but analyzing them.
+I'm focused on roles in:
+- Business Intelligence
+- Data Analytics
+- Dashboard Development
+- Data Storytelling
 
-**What I’m currently learning:**
-- 📊 **Python**
-- 🧮 **SQL**
-- 📊 **Power BI**
-- 📋 **Excel**
-
-📝 **Featured Project:**  
-**[Telecom Customer Churn Analysis](https://github.com/priya625/telecom-churn-analysis)** – A data-driven project exploring why customers leave and how to retain them.
+🔹 From streamlining reporting in enterprise systems to analyzing churn in telecom, my projects speak numbers.
 
 ---
 
-## 💻 Past Technical Background
+## 📅 Current Projects
 
-Before transitioning to analytics, I worked as a **Java Full-Stack Developer**, contributing to several impactful enterprise applications:
+- **HR Diversity Dashboard** (Power BI + PostgreSQL)
+- **Sales Forecasting using Python**
+- **Customer Churn Prediction with ML & SQL**
+- **Pizza Sales Dashboard (SQL + Power BI)**
 
-- 🔧 Developed advanced search & data entry screens
-- 🛡️ Implemented custom authorization & access controls
-- 📄 Designed print-ready forms with QR codes
-- 🧾 Created UI for document retrieval & versioning
-- 📊 Built export filters, custom queries, and reporting tools
-
-**Technologies Used**:  
-`Java` • `Spring Boot` • `Hibernate` • `Oracle SQL` • `REST APIs` • `Git`
+Explore them here: [My Projects →](https://github.com/priya625?tab=repositories)
 
 ---
 
-## ⚒️ Technical Skills
+## 🏆 Skills
 
-### 💡 Development
-- Java, Spring Boot, Hibernate
-- SQL, Git, REST APIs
-
-### 📈 Analytics
-- Python
-- SQL
-- Power BI 
-- Excel
+### Languages & Tools:
+- ✨ Python (Pandas, NumPy, Matplotlib, Seaborn)
+- ⚡ SQL (MySQL, PostgreSQL, Query Optimization)
+- 📊 Power BI (DAX, Power Query, Drill-through Reports)
+- 📈 Excel (Advanced formulas, Pivot Tables, Power Pivot)
+- 🗒️ Git | GitHub | VS Code | Postman
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priya625&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=priya625&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priya625" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌐 Connect with Me
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priya-k-v/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:priyakv2020@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" height="30" width="40"/>
   </a>
 </p>
 
@@ -104,4 +78,6 @@ Before transitioning to analytics, I worked as a **Java Full-Stack Developer**, 
 
 ---
 
-✨ *Thanks for visiting! I’m eager to collaborate, learn, and build amazing data stories. Let’s connect!* ✨
+<p align="center">
+  ✨ *Thanks for stopping by! Let’s collaborate and turn numbers into narratives.* ✨
+</p>
