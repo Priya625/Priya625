@@ -7,10 +7,10 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" alt="Professional woman working with laptop" />
+  <img src="https://your-chosen-link.gif" width="500" alt="Professional woman working" />
 </p>
+
 ---
 
 ## 💡 About Me
